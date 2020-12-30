@@ -9,13 +9,11 @@ def my_map(arr)
     
     #         i +=1
     #     end
-    #     new
-        
+    #     new   
         new=[]
         i=0
         while i < arr.length
             new << yield(arr[i])
-    
             i +=1
         end
         new
