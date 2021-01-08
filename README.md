@@ -64,7 +64,7 @@ git clone https://github.com/Murodjon000/enumerables.git
 2. cd into the folder
 3. install rspec by gem install rspec
 4. Run rspec .
-5. 13 examples, 0 failures will be output.
+5. 35 examples, 0 failures will be output.
 
 ## Authors
 
