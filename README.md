@@ -59,7 +59,22 @@ To get a local copy use:<br>
 ```js
 git clone https://github.com/Murodjon000/enumerables.git
 ```
-## Author
+## How to Test
+1. Clone the repo to your local folder
+2. cd into the folder
+3. install rspec by gem install rspec
+4. Run rspec .
+5. 13 examples, 0 failures will be output.
+
+## Authors
+
+👤 **taiwo2**
+
+- Github: [@taiwo2](https://github.com/taiwo2)
+
+- LinkedIn: [Taiwo Adetona](https://www.linkedin.com/in/taiwo-waliyullahi-adetona-988898180/)
+
+- Twitter: [@TaiwoAdetona4](https://twitter.com/TaiwoAdetona4/)
 
 👤 **Murodjon000**
 
